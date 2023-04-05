@@ -1,0 +1,64 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="utf-8">
+  <main id="main-doc">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css">
+    <section class="main-section" id="Head_0">
+      <header>Head 0</header>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <code></code>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <nav id="navbar">
+        <header>This is a header</header>
+        <a class="nav-link" href="#Head_0">Head 0</a>
+        <a class="nav-link" href="#Head_1">Head 1</a>
+        <a class="nav-link" href="#Head_2">Head 2</a>
+        <a class="nav-link" href="#Head_3">Head 3</a>
+        <a class="nav-link" href="#Head_4">Head 4</a>
+      </nav>
+      
+    </section>
+    <section class="main-section" id="Head_1"><header>Head 1</header></section>
+    <section class="main-section" id="Head_2"><header>Head 2</header></section>
+    <section class="main-section" id="Head_3"><header>Head 3</header></section>
+    <section class="main-section" id="Head_4"><header>Head 4</header></section>
+  </main>
+
+
+
+
+
+
+
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+@media (max-width: 1199px) and (min-width: 769px) {
+
+}
+
+** end of undefined **
+
